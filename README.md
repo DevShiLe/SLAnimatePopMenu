@@ -1,2 +1,2 @@
 # SLAnimatePopMenu
-![ABC](Yosemite/用户/kevin/Desktop/ipad.gif)
+![ABC](http://github.com/Kevinshicoder/SLAnimatePopMenu/raw/master/ipad.gif)

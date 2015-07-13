@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  SLAnimatePopMenu
+//
+//  Created by Kevin on 15/7/12.
+//  Copyright (c) 2015年 石乐. All rights reserved.
+//
+
+#ifndef SLAnimatePopMenu_PrefixHeader_pch
+#define SLAnimatePopMenu_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//定义一个菜单选中的block
+typedef void (^SLAnimateMenuelectedBlock)(void);
+#define SLAnimatemenuViewTag 100
+#define SLAnimateButtonImageHeight 90
+#define SLAnimateButtonTitleHeight 20
+#define SLAnimateButtonHorizontalMargin 10
+#define SLAnimateButtonVerticalPadding 10
+#define SLAnimateMenuAnimationTime 0.36
+#define SLAnimateMenuPercolumnCount 3
+#define SLAnimateMenuAnimationInterval (SLAnimateMenuAnimationTime / 5)
+#define SLColor(r,g,b,a) [UIColor colorWithRed:(r)/255.0f green:(g)/255.0f blue:(b)/255.0f alpha:a]
+#endif

@@ -1,2 +1,2 @@
 # SLAnimatePopMenu
-![ABC](http://github.com/Kevinshicoder/SLAnimatePopMenu/raw/master/ipad.gif)
+![ABC](https://github.com/Kevinshicoder/SLAnimatePopMenu/blob/master/ipad.gif)
